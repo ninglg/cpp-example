@@ -1,12 +1,11 @@
-#include <iostream>
-#include <vector>
-#include <string>
+// header file
 #include "str.h"
-
-using namespace std;
 
 int main()
 {
+    // inline
+    version();
+
     // vector + string
     vector<string> str;
     str.push_back("abc");
